@@ -29,7 +29,7 @@ driver.implicitly_wait(3)
 ANTICAPTCHA_KEY = ""
 # G-ReCaptcha. Website google key.
 SITE_KEY = ''
-# Ссылка на страницу с капчёй. Page url.
+# Page url.
 PAGE_URL = 'https://www.okayfreedom.com/specials/chip0318/of'
 
 
