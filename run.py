@@ -30,7 +30,7 @@ ANTICAPTCHA_KEY = ""
 # G-ReCaptcha. Website google key.
 SITE_KEY = ''
 # Page url.
-PAGE_URL = 'https://www.okayfreedom.com/specials/chip0318/of'
+PAGE_URL = 'testurl'
 
 
 # get service response
